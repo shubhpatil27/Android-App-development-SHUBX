@@ -1,14 +1,16 @@
 # SHUBX
 
-<div align="center">
+<p align="center">
+  <strong>DEFINE YOUR X.</strong>
+</p>
 
-## DEFINE YOUR X.
+<p align="center">
+  A personalized multi-discipline fitness tracking application built with Flutter.
+</p>
 
-**A personalized multi-discipline fitness tracking application built with Flutter.**
-
-![SHUBX Demo](assets/demo.gif)
-
-</div>
+<p align="center">
+  <img src="assets/demo.gif" width="260" alt="SHUBX Demo">
+</p>
 
 ---
 
@@ -26,29 +28,31 @@ The app brings **strength training, running, walking, cardio, and HYROX training
 
 ## App Preview
 
-### Home
+<p align="center">
+  <img src="assets/home.png" width="190" alt="SHUBX Home">
+  &nbsp;&nbsp;
+  <img src="assets/training.png" width="190" alt="SHUBX Training">
+  &nbsp;&nbsp;
+  <img src="assets/progress.png" width="190" alt="SHUBX Progress">
+</p>
 
-![SHUBX Home](assets/home.png)
+<p align="center">
+  <strong>Home &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Training &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Progress</strong>
+</p>
 
-### Training
+<br>
 
-![SHUBX Training](assets/training.png)
+<p align="center">
+  <img src="assets/history.png" width="190" alt="SHUBX History">
+  &nbsp;&nbsp;
+  <img src="assets/profile.png" width="190" alt="SHUBX Profile">
+  &nbsp;&nbsp;
+  <img src="assets/auth.png" width="190" alt="SHUBX Authentication">
+</p>
 
-### Progress
-
-![SHUBX Progress](assets/progress.png)
-
-### History
-
-![SHUBX History](assets/history.png)
-
-### Profile
-
-![SHUBX Profile](assets/profile.png)
-
-### Authentication
-
-![SHUBX Authentication](assets/auth.png)
+<p align="center">
+  <strong>History &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Profile &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Authentication</strong>
+</p>
 
 ---
 
@@ -151,15 +155,7 @@ SHUBX supports multiple cardio activities, including:
 - Jump Rope
 - Other cardio activities
 
-Metrics adapt to the selected activity and can include:
-
-- Distance
-- Duration
-- Pace
-- Speed
-- Floors
-- Repetitions
-- Rounds
+Metrics adapt to the selected activity and can include distance, duration, pace, speed, floors, repetitions, and rounds.
 
 ---
 
