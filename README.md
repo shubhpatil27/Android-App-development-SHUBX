@@ -1,16 +1,14 @@
 # SHUBX
 
-\<p align="center">
-&#x20; \<strong>DEFINE YOUR X.\</strong>
-\</p>
+<div align="center">
 
-\<p align="center">
-&#x20; A personalized multi-discipline fitness tracking application built with Flutter.
-\</p>
+## DEFINE YOUR X.
 
-\<p align="center">
-&#x20; \<img src="assets/readme/demo.gif" width="300" alt="SHUBX App Demo">
-\</p>
+**A personalized multi-discipline fitness tracking application built with Flutter.**
+
+![SHUBX Demo](assets/demo.gif)
+
+</div>
 
 ---
 
@@ -28,21 +26,29 @@ The app brings **strength training, running, walking, cardio, and HYROX training
 
 ## App Preview
 
-\<p align="center">
-&#x20; \<img src="assets/readme/home.png" width="230" alt="SHUBX Home">
-&#x20; \<img src="assets/readme/training.png" width="230" alt="SHUBX Training">
-&#x20; \<img src="assets/readme/progress.png" width="230" alt="SHUBX Progress">
-\</p>
+### Home
 
-\<p align="center">
-&#x20; \<em>Home • Training • Progress\</em>
-\</p>
+![SHUBX Home](assets/home.png)
 
-\<br>
+### Training
 
-\<p align="center">   \<img src="assets/readme/history.png" width="230" alt="SHUBX History">   \<img src="assets/readme/profile.png" width="230" alt="SHUBX Profile">   \<img src="assets/readme/auth.png" width="230" alt="SHUBX Authentication"> \</p>
+![SHUBX Training](assets/training.png)
 
-\<p align="center">   \<em>History • Profile • Authentication\</em> \</p>
+### Progress
+
+![SHUBX Progress](assets/progress.png)
+
+### History
+
+![SHUBX History](assets/history.png)
+
+### Profile
+
+![SHUBX Profile](assets/profile.png)
+
+### Authentication
+
+![SHUBX Authentication](assets/auth.png)
 
 ---
 
@@ -56,7 +62,7 @@ The app brings **strength training, running, walking, cardio, and HYROX training
 - Dedicated HYROX Full Simulation logger
 - Custom HYROX training sessions
 - Calendar-based workout history
-- Full workout detail views
+- Detailed workout views
 - Edit and delete completed workouts
 - Current and all-time progress analytics
 - Training streak tracking
@@ -340,16 +346,16 @@ Firebase provides:
 
 ## Tech Stack
 
-| Technology                  | Purpose                                |
-| --------------------------- | -------------------------------------- |
-| **Flutter**                 | Android application framework          |
-| **Dart**                    | Application language                   |
-| **SQLite / sqflite**        | Relational local workout database      |
-| **SharedPreferences**       | Local preferences and onboarding state |
-| **Firebase Authentication** | Account creation and authentication    |
-| **Cloud Firestore**         | Cloud backup and restoration           |
-| **Material Design**         | UI foundation                          |
-| **Git / GitHub**            | Version control and source hosting     |
+| Technology | Purpose |
+| --- | --- |
+| **Flutter** | Android application framework |
+| **Dart** | Application language |
+| **SQLite / sqflite** | Relational local workout database |
+| **SharedPreferences** | Local preferences and onboarding state |
+| **Firebase Authentication** | Account creation and authentication |
+| **Cloud Firestore** | Cloud backup and restoration |
+| **Material Design** | UI foundation |
+| **Git / GitHub** | Version control and source hosting |
 
 ---
 
@@ -530,7 +536,7 @@ Some of the core engineering work behind SHUBX includes:
 - Calendar-based workout history
 - Universal workout editing and deletion
 - Two-week and all-time analytics
-- Firebase authentication integration
+- Firebase Authentication integration
 - Password recovery and email verification
 - Local-first data persistence
 - Firestore cloud backup and restoration
@@ -554,9 +560,7 @@ SHUBX does not define that goal for the user.
 
 It gives them the tools to:
 
-\<p align="center">
-&#x20; \<strong>DEFINE YOUR X.\</strong>
-\</p>
+> ### DEFINE YOUR X.
 
 ---
 
@@ -576,7 +580,4 @@ GitHub: [@shubhpatil27](https://github.com/shubhpatil27)
 
 ---
 
-\<p align="center">
-&#x20; \<strong>SHUBX\</strong>\<br>
-&#x20; \<sub>DEFINE YOUR X.\</sub>
-\</p>
+### SHUBX — DEFINE YOUR X.
