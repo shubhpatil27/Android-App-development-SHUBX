@@ -576,4 +576,7 @@ GitHub: [@shubhpatil27](https://github.com/shubhpatil27)
 
 ---
 
-\<p align="center">   \<strong>SHUBX\</strong>\<br>   \<sub>DEFINE YOUR X.\</sub> \</p>
+\<p align="center">
+&#x20; \<strong>SHUBX\</strong>\<br>
+&#x20; \<sub>DEFINE YOUR X.\</sub>
+\</p>
