@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645895921759",
+    "project_id": "shubx-3ec79",
+    "storage_bucket": "shubx-3ec79.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645895921759:android:5c29404be62cfeb31d3bea",
+        "android_client_info": {
+          "package_name": "com.shubx.shubx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVE_BWIEnMHJvRdCO5wbOGRqG-V0vk8a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
